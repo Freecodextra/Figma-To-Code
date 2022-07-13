@@ -3,8 +3,7 @@ This is my first time of turing a figma design into codes. I saw the design on F
 
 This is just a way of putting myself to test and i guess i have passed that. Below is the picture of the figma design.
 1657202053009.jpg
-☝️☝️☝️☝️
-The picture with the bame above.
+The picture with the name above.
 
 The link to this project is below👇👇👇
-https://app.netlify.com/sites/figma-to-code-codextra
+https://figma-to-code-codextra.netlify.app/
